@@ -1,3 +1,5 @@
+# leetcode problem 520.
+
 class detect_capital:
     def detectCapitalUse(self, word):
         count = 0
