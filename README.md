@@ -16,3 +16,10 @@ Return the array in the form [x1,y1,x2,y2,...,xn,yn].
 
 Input: nums = [1,2,3,4,4,3,2,1], n = 4
 Output: [1,4,2,3,3,2,4,1]
+
+* Detect Capital 
+
+Defining the usage of capitals in a word to be right and return true if the usage of capitals in it is right.
+
+Input: word = "FlaG"
+Output: false
