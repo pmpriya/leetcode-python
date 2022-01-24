@@ -1,6 +1,6 @@
 * Brute Force - Backtracking Algorithms 
 
-- Solving the n-queens backtracking hard problem 
+    1. Solving the n-queens backtracking hard problem 
 
 * Running Sum Of 1D Array 
 
