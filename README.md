@@ -1,6 +1,12 @@
 * Brute Force - Backtracking Algorithms 
+time complexity = O(N^2)
 
     1. Solving the n-queens backtracking hard problem 
+   
+* Kandane's Algorithm 
+
+for solving the maximum sum subarray problem using dynamic programming 
+time complexity = O(n)
 
 * Running Sum Of 1D Array 
 
